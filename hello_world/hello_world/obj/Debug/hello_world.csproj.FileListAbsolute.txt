@@ -4,3 +4,9 @@ C:\Users\bola\Documents\Visual Studio 2015\Projects\2016-17\hello_world\hello_wo
 C:\Users\bola\Documents\Visual Studio 2015\Projects\2016-17\hello_world\hello_world\obj\Debug\hello_world.csprojResolveAssemblyReference.cache
 C:\Users\bola\Documents\Visual Studio 2015\Projects\2016-17\hello_world\hello_world\obj\Debug\hello_world.exe
 C:\Users\bola\Documents\Visual Studio 2015\Projects\2016-17\hello_world\hello_world\obj\Debug\hello_world.pdb
+C:\temp\git_trial\Filer\hello_world\hello_world\bin\Debug\hello_world.exe.config
+C:\temp\git_trial\Filer\hello_world\hello_world\obj\Debug\hello_world.exe
+C:\temp\git_trial\Filer\hello_world\hello_world\obj\Debug\hello_world.pdb
+C:\temp\git_trial\Filer\hello_world\hello_world\bin\Debug\hello_world.exe
+C:\temp\git_trial\Filer\hello_world\hello_world\bin\Debug\hello_world.pdb
+C:\temp\git_trial\Filer\hello_world\hello_world\obj\Debug\hello_world.csprojResolveAssemblyReference.cache
